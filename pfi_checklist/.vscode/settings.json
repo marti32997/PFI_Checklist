@@ -1,0 +1,8 @@
+{
+	"workbench.settings.useSplitJSON": true
+	"workbench.colorCustomizations": {
+		"[Material Theme Darker High Contrast]": {
+			"statusBar.debuggingBackground": "#212121"
+		}
+	},
+}
